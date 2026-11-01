@@ -1,0 +1,7 @@
+# 构建产物
+BlackOut.app
+BlackOut.icns
+*.zip
+
+# 系统杂项
+.DS_Store
